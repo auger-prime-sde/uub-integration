@@ -1,6 +1,6 @@
 # Operative system and firmware distribution for UUB
 
-# System version 1.01.1 upgrade (Dicember 2020) - UUB massive production
+# System version 1.01.1 upgrade (December 2020) - UUB massive production
 - Device tree modifications for new beatstream
 - FPGA bitsream ver 17161120
 - upgrade of linux image (not important changes)
